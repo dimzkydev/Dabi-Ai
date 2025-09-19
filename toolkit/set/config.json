@@ -1,14 +1,14 @@
 {
   "ownerSetting": {
     "ownerNumber": [
-      "62851xxxx"
+      "6288233189302"
     ],
     "ownerName": "Yumi",
-    "contact": "6285194993977",
+    "contact": "6287776041710",
     "ownerLink": {
       "tt": "",
       "yt": "",
-      "ig": "",
+      "ig": "@itsmeedmss_",
       "fb": ""
     },
     "ownerStore": {
@@ -19,18 +19,18 @@
     "forOwner": true
   },
   "botSetting": {
-    "botName": "dabi",
-    "botFullName": "Dabi Chan Ai",
+    "botName": "Dabi",
+    "botFullName": "Dabi Nakatashi",
     "type": "plugin",
-    "footer": "© 𝑫𝒂𝒃𝒊𝑳𝒊𝒏𝒆𝒔",
+    "footer": "© 𝑫𝒂𝒃𝒊NK",
     "thumbnail": "https://c.termai.cc/i9/vMw.jpg",
     "sendTextLink": {
-      "chshort": "https://whatsapp.com/channel/0029Van8WHGEAKW8OUDniG1m",
-      "gcshort": "",
+      "chshort": "https://whatsapp.com/channel/0029Vb6ao6bFcovyTQSFEI1Q",
+      "gcshort": "https://chat.whatsapp.com/DrqZxEeI8v9H83ynYvkVOP?mode=ems_copy_t",
       "music": ""
     },
     "autoread": {
-      "group": false,
+      "group": true,
       "private": false
     },
     "Mode": "off",
@@ -46,7 +46,7 @@
       "❲",
       "❳"
     ],
-    "idCh": "120363310100263711@newsletter",
+    "idCh": "120363420818037057@newsletter",
     "frame": {
       "head": "┏───•",
       "body": "│",
